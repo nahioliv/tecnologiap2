@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TI</title>
+</head>
+<body>
+    <header>
+        <h1>Tópicos abordados no TI </h1>
+    </header>
+    <nav>
+       
+    </nav>
+    <main>
+        <p>A tecnologia da informação é essencial nos dias de hoje. Nesta página, explicaremos os seguintes tópicos:</p>
+        <ul>
+            <li>Redes de Computadores</li>
+            <img src="https://www.portalgsti.com.br/media/uploads/marcomascarenhas/rede-de-computadores.jpg" alt="Descrição da Imagem">
+           <p> Rede de computadores é um conjunto de dispositivos eletrônicos, como computadores, servidores, roteadores, switches e outros equipamentos, interconectados para compartilhar recursos, trocar informações e colaborar entre si. O principal objetivo de uma rede de computadores é permitir a comunicação eficiente e o compartilhamento de dados entre os dispositivos conectados.
+        </p>
+         <li>Desenvolvimento de Software</li>
+         <style>
+            .imagem-redimensionada {
+                width: 50%; /* Reduz a largura da imagem em 20% */
+            }
+        </style>
+    </head>
+    <body>
+    
+    <img class="imagem-redimensionada" src="https://www.inteli.edu.br/wp-content/uploads/2022/08/24171131/eng-soft-768x593-1-1.jpg" alt="Descrição da Imagem">
+    
+    </body>
+            <p>O Desenvolvimento de Software é o processo de criar, projetar, programar, testar e manter programas de computador, aplicativos e sistemas de software. É uma disciplina central na área de Tecnologia da Informação (TI) e abrange todas as etapas envolvidas na criação de software funcional e eficiente para atender às necessidades dos usuários e das organizações.
+        </p>
+         <li>Segurança da Informação</li>
+         <style>
+            .imagem-redimensionada {
+                width: 50%; /* Reduz a largura da imagem em 20% */
+            }
+        </style>
+    </head>
+    <body>
+    
+    <img class="imagem-redimensionada" src="https://www.oneit.com.br/wp-content/uploads/2021/04/seguranca-da-informacao.jpg" alt="Descrição da Imagem">
+    
+    </body>
+         <p>  Segurança da Informação é um conjunto de práticas, processos e medidas voltadas para a proteção de dados, sistemas de informação e recursos tecnológicos contra ameaças, riscos e ataques que visam comprometer a confidencialidade, integridade e disponibilidade das informações.
+O objetivo principal da Segurança da Informação é garantir que as informações sejam manuseadas de maneira segura, prevenindo o acesso não autorizado, minimizando o risco de perda ou roubo de dados, e assegurando que os sistemas e redes permaneçam operacionais e protegidos contra possíveis ataques cibernéticos.
+</p>
+        </ul>
+        <ul>
+            <li><a href="file:///C:/Users/Flavia%20Raquel/OneDrive/%C3%81rea%20de%20Trabalho/A%20base%20da%20tecnologia.html/a%20base%20da%20tecnologia.html">Página Inicial</a></li>
+
+        </ul>
+    </main>
+</body>
+</html>
